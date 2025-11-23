@@ -72,7 +72,7 @@ sudo apt install libusb-1.0-0 libusb-1.0-0-dev
 ```
 Optionally you might also need build tools:
 ```sh
-sudo apt install build-essential
+sudo apt install build-essential autoconf git
 ```
 
 Retrieve the `rogauracore` package, either through `curl` or `git`:
