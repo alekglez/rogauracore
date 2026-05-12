@@ -115,5 +115,10 @@ sudo systemctl restart upower.service
   is an Electron-based GUI for `rogauracore` by
   [@rastafaninplakeibol](https://github.com/rastafaninplakeibol).
 
+- [rog-auracore-gui](https://gitlab.com/bytecode-solutions/community/rog-auracore-gui)
+  is a native GTK3 GUI for `rogauracore` by
+  [@alek.cora.glez](https://gitlab.com/alek.cora.glez), installable via
+  [PPA](https://launchpad.net/~alek.cora.glez/+archive/ubuntu/rog-auracore-gui).
+
 - [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) can probably
   do all the things that `rogauracore` can do.
